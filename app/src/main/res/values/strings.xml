@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Al-Akhwh Milk</string>
+    <string name="d_name">الاسم</string>
+    <string name="d_number">الرقم</string>
+    <string name="d_address">العنوان</string>
+    <string name="d_quantity">الكميه</string>
+<string-array name="time">
+    <item>AM</item>
+    <item>PM</item>
+</string-array>
+    <string-array name="day">
+        <item>كل يوم</item>
+        <item>السبت</item>
+        <item>الاحد</item>
+        <item>الاثنين</item>
+        <item>الثلاثاء</item>
+        <item>الاربعاء</item>
+        <item>الخميس</item>
+        <item>الجمعه</item>
+
+    </string-array>
+    <string-array name="main_regain">
+        <item>الكل</item>
+        <item>الموقف</item>
+        <item>المجلس</item>
+        <item>الشون</item>
+        <item>الذيديه</item>
+        <item>السوق</item>
+        <item>شنبارى</item>
+        <item>الزاويه</item>
+        <item>المطحن</item>
+        <item>المستشفى</item>
+        <item>الصفيره</item>
+    </string-array>
+    <string name="main_noOrder">لا يوجد اى ملاحظه حتى الان!!</string>
+</resources>
